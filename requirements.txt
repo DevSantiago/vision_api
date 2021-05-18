@@ -1,0 +1,5 @@
+google-cloud
+google-cloud-vision
+google-cloud-bigquery
+google-cloud-translate
+wget
